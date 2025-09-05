@@ -2,6 +2,8 @@
 # 欢迎各位关注我们的公众号：摸鱼冲浪研究所
 <img width="1816" height="624" alt="image" src="https://github.com/user-attachments/assets/bb5a9014-0c92-476a-945b-bcae3c8c9c1a" />
 
+# 解压密码
+moyulab
 # ddddRed24注册机
 Gen_ddddred.exe
 
