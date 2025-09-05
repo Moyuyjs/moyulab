@@ -7,3 +7,7 @@ Gen_ddddred.exe
 
 MD5：
 99f3ff9894d95672d17a74b0f843c9de
+
+# gen_key_wavely.exe 注册机:
+ MD5：
+d4d22350f24768425f3b37a3d3255f4d
