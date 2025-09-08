@@ -13,4 +13,11 @@ MD5：
 ## gen_key_wavely.exe 注册机:
  MD5：
 d4d22350f24768425f3b37a3d3255f4d
+# jsfind_gen_key.7z 注册机：
+MD5：
+6fed34a021ffdfc4409ac2c8a055b0a2
+
+------------------------------------------------
+# 获取更多服务
+![3685b7ce75311a4317683b42165bc99](https://github.com/user-attachments/assets/d63618d5-ddf5-4c60-92ca-e6e91a06bfa6)
 
