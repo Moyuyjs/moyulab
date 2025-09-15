@@ -10,13 +10,21 @@ Gen_ddddred.exe
 MD5：
 99f3ff9894d95672d17a74b0f843c9de
 
-### gen_key_wavely.exe 注册机:
- MD5：
+### wavely 注册机:
+gen_key_wavely.exe
+
+MD5：
 d4d22350f24768425f3b37a3d3255f4d
-### jsfind_gen_key.7z 注册机：
+
+### js-finder注册机：
+jsfind_gen_key.7z
+
 MD5：
 6fed34a021ffdfc4409ac2c8a055b0a2
-### ida_gen_MYL.exe 注册机：
+
+### ida注册机：
+ida_gen_MYL.exe
+
 MD5：
 e3b40cd27cef5a5455287d0d02611e8c
 
