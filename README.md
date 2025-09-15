@@ -17,10 +17,12 @@ d4d22350f24768425f3b37a3d3255f4d
 MD5：
 6fed34a021ffdfc4409ac2c8a055b0a2
 ### ida_gen_MYL.exe 注册机：
-MD5:
+MD5：
 e3b40cd27cef5a5455287d0d02611e8c
+
 ------------------------------------------------
 ## 获取更多服务
-![b203fcbe4d760bcfcbf67b84820578a](https://github.com/user-attachments/assets/4da8edfe-4aa8-4246-b05e-23804d47c492)
+<img width="1050" height="537" alt="2c9c09991311795c8389d75f5f2d120" src="https://github.com/user-attachments/assets/1cb21002-705e-4832-bf28-29d7db169bf7" />
+
 
 
