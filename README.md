@@ -34,6 +34,12 @@ BurpLoaderKeygen_v1.17.jar
 MD5：
 a3b1b3be59e6d3d374a2d3344213e6c7
 
+### xscan3.6.4：
+xscan_3.6.4_win_amd64.zip
+
+MD5：
+4b95681640962f9bb1d58a3c2942d0a0
+
 ------------------------------------------------
 ## 获取更多服务
 <img width="1050" height="537" alt="2c9c09991311795c8389d75f5f2d120" src="https://github.com/user-attachments/assets/1cb21002-705e-4832-bf28-29d7db169bf7" />
